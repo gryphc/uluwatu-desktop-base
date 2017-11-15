@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=uluwatu
+Description=blankon-uluwaytu-plymouth
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/uluwatu
+ScriptFile=/usr/share/plymouth/themes/uluwatu/uluwatu.script
